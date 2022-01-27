@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DAKSHTECHIE1
 - 👀 I’m interested in CODING.LOVES ML,WEBD.
 - 🌱 I’m currently learning DSA IN C++
-- 💞️ I’m looking to collaborate on a project that aims at making the societ better through technology
+- 💞️ I’m looking to collaborate on a project that aims at making the society better through technology
 - 📫 How to reach me daksh13579@gmail.com
 
 <!---
